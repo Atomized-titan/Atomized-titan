@@ -1,4 +1,4 @@
-### Hi there, I'm Jarrod! 👋
+### Hi there, I'm Pushpal! 👋
 
 - 📚 I'm a 4th year Electronics and Telecommunication Engineer at KIIT University Bhubaneswar
 - 💻 currently freelancing as a Front End Developer, and also working on personal projects!
