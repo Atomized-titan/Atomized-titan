@@ -18,4 +18,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Titan.visitor-badge)
 
+## 📈 GitHub Stats
+
+<a href="https://github.com/Atomized-titan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atomized-titan&langs_count=10&theme=vue&layout=compact" />
+</a>
 [![Pushpal's github stats](https://github-readme-stats.vercel.app/api?username=Atomized-titan)](https://github.com/anuraghazra/github-readme-stats)
