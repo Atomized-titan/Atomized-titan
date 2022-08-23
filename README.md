@@ -52,7 +52,7 @@
 
 [![Pushpal's github stats](https://github-readme-stats.vercel.app/api?username=Atomized-titan)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://pushpal-ghoshal.vercel.app
+[website]: https://pushpalghoshal.com
 [linkedin]: https://www.linkedin.com/in/pushpal-ghoshal-093347156/
 
 
