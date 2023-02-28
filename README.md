@@ -2,8 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=pushpalghoshal.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://pushpal-ghoshal.vercel.app)
 
-- 📚 I'm a 4th year Electronics and Telecommunication Engineer at KIIT University Bhubaneswar
-- 💻 currently freelancing as a Front End Developer, and also working on personal projects!
+- 📚 I'm a Electronics and Telecommunication Engineer
 - 🤖 I'm a verified discord bot developer(JS) and have developed various bots including Stonks!
 - 🤔 Currently learning GraphQL & Svelte
 
